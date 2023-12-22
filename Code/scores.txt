@@ -1,0 +1,15 @@
+0 gomoku
+0 gomoku
+0 gomoku
+0 starWar
+0 starWar
+0 starWar
+0 fishing
+0 fishing
+0 fishing
+0 goldMiner
+0 goldMiner
+0 goldMiner
+0 breakbricks
+0 breakbricks
+0 breakbricks
